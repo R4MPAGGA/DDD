@@ -1,0 +1,2757 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1556; Version 1909; 64bit' Language: 'ru' Physical Memory: 12159 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Diplomnaya Rabota
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54870
+Successfully changed project path to: E:/Diplomnaya Rabota
+E:/Diplomnaya Rabota
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Diplomnaya Rabota/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56832
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001968 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.048 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001848 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.121 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2251.
+Total: 2.253100 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.082000 ms MarkObjects: 1.840700 ms  DeleteObjects: 0.148700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania-1.3-high-contrast.png
+  artifactKey: Guid(285e052aed6244b37bf240122b5a0aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania-1.3-high-contrast.png using Guid(285e052aed6244b37bf240122b5a0aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27c4a72bf5ccfc407e9e39e979a6cca') in 0.164212 seconds
+  Import took 0.167737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania-1.3.psd
+  artifactKey: Guid(de8a2763656b741afb84a2799162d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania-1.3.psd using Guid(de8a2763656b741afb84a2799162d8c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44f3b95f8eaec6d40f4c1ca9ddaedec') in 0.027586 seconds
+  Import took 0.031864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania.prefab
+  artifactKey: Guid(1ab47bf5a46794c03834ca72b51b8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania.prefab using Guid(1ab47bf5a46794c03834ca72b51b8c11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b24c1a81ed346523a63c07a3f8d309ec') in 0.022176 seconds
+  Import took 0.026543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/s4m_ur4i_2D-metroidvania-tileset
+  artifactKey: Guid(1a04b69ae3e2d4d5487a74bf9feaa9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/s4m_ur4i_2D-metroidvania-tileset using Guid(1a04b69ae3e2d4d5487a74bf9feaa9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b77b30cfd098cf46bd38c3a837fa97') in 0.009161 seconds
+  Import took 0.013343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania-1.3.png
+  artifactKey: Guid(7f3e7e966dd8a428894bc7fc03da24ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack/s4m_ur4i-metroidvania-1.3.png using Guid(7f3e7e966dd8a428894bc7fc03da24ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07de9c40fa1e0ce147e46c6244a456dd') in 0.463888 seconds
+  Import took 0.469758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack
+  artifactKey: Guid(e165ec8a978d343cd8d1deb88addc0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/s4m_ur4i_2D-metroidvania-tileset/assetpack using Guid(e165ec8a978d343cd8d1deb88addc0a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a24570655c7e47047aa69c9c37877b00') in 0.007932 seconds
+  Import took 0.012242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.649387 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4856052512617ee48189cf1d7999900') in 0.010847 seconds
+  Import took 0.015017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.338330 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4856052512617ee48189cf1d7999900') in 0.011064 seconds
+  Import took 0.020893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.289136 seconds.
+  path: Assets/Dungeon
+  artifactKey: Guid(1a04b69ae3e2d4d5487a74bf9feaa9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon using Guid(1a04b69ae3e2d4d5487a74bf9feaa9a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1032fa77285321aed2619593f572f6') in 0.013982 seconds
+  Import took 0.018990 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001637 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.996 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.606100 ms (FindLiveObjects: 0.249600 ms CreateObjectMapping: 0.144500 ms MarkObjects: 2.093400 ms  DeleteObjects: 0.117500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.230463 seconds.
+  path: Assets/Dungeon/Scripts
+  artifactKey: Guid(1dc4f2d1069834ceeb18fcd49f9ea329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts using Guid(1dc4f2d1069834ceeb18fcd49f9ea329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075929a4b7d725bc4304c9ea70562607') in 0.011432 seconds
+  Import took 0.014883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.595501 seconds.
+  path: Assets/Dungeon/Scripts/movement.cs
+  artifactKey: Guid(58183b22ca6834a748a63fcdf8ea2d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/Scripts/movement.cs using Guid(58183b22ca6834a748a63fcdf8ea2d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b097fbbe1eeb806ac157721eadd2811') in 0.014432 seconds
+  Import took 0.018071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.169998 seconds.
+  path: Assets/Dungeon/assetpack/Tiles
+  artifactKey: Guid(4a7ec8bae93044112be18383d8fb826a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles using Guid(4a7ec8bae93044112be18383d8fb826a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1784f35071a0c41b6577cc99725c3a') in 0.008309 seconds
+  Import took 0.011715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075301 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_0.asset
+  artifactKey: Guid(08cb0fc6872da4d4d9731b5132196395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_0.asset using Guid(08cb0fc6872da4d4d9731b5132196395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5addac5770e45ea745f5d428a707be0d') in 0.052183 seconds
+  Import took 0.055919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_32.asset
+  artifactKey: Guid(42ee0628e53ea436bb45a5c3926d8f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_32.asset using Guid(42ee0628e53ea436bb45a5c3926d8f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c497a7110c64404ee5d2a5beb9d098c4') in 0.016654 seconds
+  Import took 0.020400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_33.asset
+  artifactKey: Guid(ea1efe6c74825468593b33761cfdffc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_33.asset using Guid(ea1efe6c74825468593b33761cfdffc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24267a185cc539eb978b813cb2286f23') in 0.018070 seconds
+  Import took 0.021879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_15.asset
+  artifactKey: Guid(1b636de9f50af404d8ae895ea34321dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_15.asset using Guid(1b636de9f50af404d8ae895ea34321dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff6344b0558f454b79814c8d85d96e4') in 0.018309 seconds
+  Import took 0.022358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_18.asset
+  artifactKey: Guid(7b18e4221fb88446cbf1b30c4efee767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_18.asset using Guid(7b18e4221fb88446cbf1b30c4efee767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85baf8a092941faf0ecbf8c81651af61') in 0.017840 seconds
+  Import took 0.021744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_2.asset
+  artifactKey: Guid(545370f447984437fb6ff11205543cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_2.asset using Guid(545370f447984437fb6ff11205543cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd541933909d4d31bb9c424a3916ce37') in 0.015055 seconds
+  Import took 0.019697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_9.asset
+  artifactKey: Guid(4a032fbb861964781b016839c5305aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_9.asset using Guid(4a032fbb861964781b016839c5305aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e3e8a4e057f9a1def569d1b20216ab') in 0.015590 seconds
+  Import took 0.019456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_37.asset
+  artifactKey: Guid(b8ae0e23f186549b6bfc1dfe9ff5adf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_37.asset using Guid(b8ae0e23f186549b6bfc1dfe9ff5adf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a87f8ab8563c7446f38468de16c8d1d') in 0.013737 seconds
+  Import took 0.017211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_29.asset
+  artifactKey: Guid(eb561f200722d4e88b6099a002daba5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_29.asset using Guid(eb561f200722d4e88b6099a002daba5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1058d093b93f63bcc4592cda66b2397') in 0.016632 seconds
+  Import took 0.020045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_28.asset
+  artifactKey: Guid(1815597e292b549968737c27ec8310c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_28.asset using Guid(1815597e292b549968737c27ec8310c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46876c9612ba62e19bdf9bd08e87bd56') in 0.014034 seconds
+  Import took 0.017320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_22.asset
+  artifactKey: Guid(fb47dbb3b24204f7aa9e8ea7c41e16e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_22.asset using Guid(fb47dbb3b24204f7aa9e8ea7c41e16e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39674efb88754903f0bbafadf567d13b') in 0.014780 seconds
+  Import took 0.018332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_7.asset
+  artifactKey: Guid(c1885fba4e5334f92a2dbc4513590ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_7.asset using Guid(c1885fba4e5334f92a2dbc4513590ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bc3c62bf4ad84776f7fbc2702ec9d18') in 0.017424 seconds
+  Import took 0.020851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_1.asset
+  artifactKey: Guid(d74ece908bff84fd38eeb917e5425c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_1.asset using Guid(d74ece908bff84fd38eeb917e5425c8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e72d475f9a448eaf2e54509a0d8be60') in 0.014384 seconds
+  Import took 0.019514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_12.asset
+  artifactKey: Guid(968d38c60959448bb9fa267923e871a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_12.asset using Guid(968d38c60959448bb9fa267923e871a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00206d3cb71842a3fc74d2c0331eb521') in 0.014568 seconds
+  Import took 0.018171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_10.asset
+  artifactKey: Guid(df674e3c8f48d40218a0c58ded66aaa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_10.asset using Guid(df674e3c8f48d40218a0c58ded66aaa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3617cab9656502af9952b20bcad6ab57') in 0.013849 seconds
+  Import took 0.017892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_5.asset
+  artifactKey: Guid(963695ae13ec34be39a4f0823021d62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_5.asset using Guid(963695ae13ec34be39a4f0823021d62d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95837840396ed70732b14868e738fe3') in 0.012513 seconds
+  Import took 0.015877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_40.asset
+  artifactKey: Guid(dad3c8de1d9cc474299f1db46406c331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_40.asset using Guid(dad3c8de1d9cc474299f1db46406c331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc9a2e2ab9c0f03847d3e3d18d8cd505') in 0.014708 seconds
+  Import took 0.018163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_30.asset
+  artifactKey: Guid(aaeeb8032857649ec91918a216d0e63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_30.asset using Guid(aaeeb8032857649ec91918a216d0e63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e390d9d0444f9ad539879d97c729c1f') in 0.012089 seconds
+  Import took 0.015524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_35.asset
+  artifactKey: Guid(b0d86473757d64a7ab5419aa8e083360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_35.asset using Guid(b0d86473757d64a7ab5419aa8e083360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd77167e1d52bcf7f7370ddbd015d062') in 0.016226 seconds
+  Import took 0.020441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_3.asset
+  artifactKey: Guid(060ce215232194bcea486c432915b3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_3.asset using Guid(060ce215232194bcea486c432915b3fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22ff9deb78cc3437d215d632253026d') in 0.013518 seconds
+  Import took 0.017543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_25.asset
+  artifactKey: Guid(dd48ea5f5b3014e78850e44319cbbd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_25.asset using Guid(dd48ea5f5b3014e78850e44319cbbd64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ed15cefa985ac1d35de790d906aca6') in 0.014165 seconds
+  Import took 0.017932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_27.asset
+  artifactKey: Guid(1bf54aab1402a46ba978abc27689a354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_27.asset using Guid(1bf54aab1402a46ba978abc27689a354) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c74a91da1e130c49340aeb67d6e95a4') in 0.013757 seconds
+  Import took 0.017071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_11.asset
+  artifactKey: Guid(c731d3e148669410e9d454d481d85f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_11.asset using Guid(c731d3e148669410e9d454d481d85f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1178147121137a0ec3d3208b865be7ee') in 0.014241 seconds
+  Import took 0.017885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_17.asset
+  artifactKey: Guid(ad04acca3f5ce4862ab4e3bd6ec09dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_17.asset using Guid(ad04acca3f5ce4862ab4e3bd6ec09dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3579153bd36c2a103ae240fa17c235') in 0.015607 seconds
+  Import took 0.020062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_36.asset
+  artifactKey: Guid(3f2a247debb464cd9ac4d79655b5cca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_36.asset using Guid(3f2a247debb464cd9ac4d79655b5cca3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e0a952dabbd3bcb18d17c019e0e62cd') in 0.015270 seconds
+  Import took 0.019007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_19.asset
+  artifactKey: Guid(53d095e634eab4503a9ea90c75d0c4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_19.asset using Guid(53d095e634eab4503a9ea90c75d0c4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb28fa0b87dcb07f6147bace591cdb3') in 0.016975 seconds
+  Import took 0.020666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_44.asset
+  artifactKey: Guid(bc4f1f9190b484f93b2dfa97f8e19f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_44.asset using Guid(bc4f1f9190b484f93b2dfa97f8e19f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe9505dfe0ccd18e71512ef91e5106c') in 0.038196 seconds
+  Import took 0.043214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_14.asset
+  artifactKey: Guid(eb593dcba62d94398b4dd058ed6baf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_14.asset using Guid(eb593dcba62d94398b4dd058ed6baf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048b02beb76f1b39940aa7dd9fe125d4') in 0.012697 seconds
+  Import took 0.016383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_20.asset
+  artifactKey: Guid(738d7cbeffcd242f990c58d102645f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_20.asset using Guid(738d7cbeffcd242f990c58d102645f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16cb28308cad3a3ab3feece47671baa3') in 0.014700 seconds
+  Import took 0.018545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_16.asset
+  artifactKey: Guid(cdd3c467461a54a5f8ffec5fe9cb7dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_16.asset using Guid(cdd3c467461a54a5f8ffec5fe9cb7dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c53ac6431389a42b2e5f6d41ffa9be') in 0.012732 seconds
+  Import took 0.016508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_26.asset
+  artifactKey: Guid(27dfb2981e62f4d10a11b8d87e3a6c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_26.asset using Guid(27dfb2981e62f4d10a11b8d87e3a6c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21103c3aa14f92a601c22e9ed2a89a3') in 0.014013 seconds
+  Import took 0.017623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_39.asset
+  artifactKey: Guid(df661f14ac9734371a3d4553f7ba504b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_39.asset using Guid(df661f14ac9734371a3d4553f7ba504b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02fce71ead57c0c40cefd3c89734f3f9') in 0.012406 seconds
+  Import took 0.016019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_38.asset
+  artifactKey: Guid(622c6e3ff722645c9bdd38436f4a7193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_38.asset using Guid(622c6e3ff722645c9bdd38436f4a7193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '983076a5638e30e989534da8e3bb0553') in 0.016441 seconds
+  Import took 0.020048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_6.asset
+  artifactKey: Guid(2dd0e93b9ede448a685fe0814b24ce98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_6.asset using Guid(2dd0e93b9ede448a685fe0814b24ce98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56775123bb9f98c80fd70a463ddcbef') in 0.012721 seconds
+  Import took 0.016410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_4.asset
+  artifactKey: Guid(0d32207a90218474b80257280e3d90da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_4.asset using Guid(0d32207a90218474b80257280e3d90da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb1bed7b540de6c5ccbc0010b247eb6d') in 0.014092 seconds
+  Import took 0.017864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_41.asset
+  artifactKey: Guid(a79b8486323954e25ac1047f839fb62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_41.asset using Guid(a79b8486323954e25ac1047f839fb62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '944b576b660b46251859b8dae58d6097') in 0.013359 seconds
+  Import took 0.017234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_21.asset
+  artifactKey: Guid(17351b35d992347a0980355da18d16a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_21.asset using Guid(17351b35d992347a0980355da18d16a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bece6eaad005263fa11b2b0c34ca7c4b') in 0.013515 seconds
+  Import took 0.017144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_34.asset
+  artifactKey: Guid(d6c0bddaf2819497fa484fc4f6b0d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_34.asset using Guid(d6c0bddaf2819497fa484fc4f6b0d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b142957facbc4f075da3bb5e820d8c66') in 0.012796 seconds
+  Import took 0.016290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_23.asset
+  artifactKey: Guid(9ce6def3ec2274877804be7110bacd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_23.asset using Guid(9ce6def3ec2274877804be7110bacd3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '631e125ee1fbbfb9ca9d8c1adc46d79a') in 0.013067 seconds
+  Import took 0.016400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_13.asset
+  artifactKey: Guid(6efddfb74067c47c99d2acea3a96e3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_13.asset using Guid(6efddfb74067c47c99d2acea3a96e3e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d479552d01153483101e996c48a7b7') in 0.012047 seconds
+  Import took 0.015331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_31.asset
+  artifactKey: Guid(6668e91ba161848c5b6bbd7c38db97f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_31.asset using Guid(6668e91ba161848c5b6bbd7c38db97f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89a49af65dc7fe734e65fdaf807a13ca') in 0.012231 seconds
+  Import took 0.015530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_42.asset
+  artifactKey: Guid(00457aff7dcab4b9d88fa8c833d0d6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_42.asset using Guid(00457aff7dcab4b9d88fa8c833d0d6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50845cbdc2f23be8cbb6d42b304e9f39') in 0.013429 seconds
+  Import took 0.016933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_8.asset
+  artifactKey: Guid(549c963c7c66f476a92140623f472a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_8.asset using Guid(549c963c7c66f476a92140623f472a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36730840615746084caa14d9ecca695e') in 0.012291 seconds
+  Import took 0.016082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_43.asset
+  artifactKey: Guid(5aecc7a19981b47dc8db3539680331c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_43.asset using Guid(5aecc7a19981b47dc8db3539680331c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7f523491d4e4896e0b3680c6d870ca4') in 0.013958 seconds
+  Import took 0.017473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_24.asset
+  artifactKey: Guid(da121989e8b3c4f40a7659ebe41b2cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_24.asset using Guid(da121989e8b3c4f40a7659ebe41b2cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e30692ce1b782e180b20916f30401ad') in 0.012370 seconds
+  Import took 0.016448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302804 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_45.asset
+  artifactKey: Guid(c324a03d1d550473caf4798c8396290f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_45.asset using Guid(c324a03d1d550473caf4798c8396290f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc5116b7f1a952da4a2c494b9a74d82') in 0.012206 seconds
+  Import took 0.016072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_53.asset
+  artifactKey: Guid(55c434f5d75454f3e81b882d129d4b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_53.asset using Guid(55c434f5d75454f3e81b882d129d4b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '641482348cbc868124c0a4156cf3858f') in 0.012163 seconds
+  Import took 0.015643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_45.asset
+  artifactKey: Guid(c324a03d1d550473caf4798c8396290f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_45.asset using Guid(c324a03d1d550473caf4798c8396290f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc5116b7f1a952da4a2c494b9a74d82') in 0.007247 seconds
+  Import took 0.010481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_63.asset
+  artifactKey: Guid(7ce308ceb5aff479692166ef6319229c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_63.asset using Guid(7ce308ceb5aff479692166ef6319229c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bd5d733f845e26db8e1492b78866b7b') in 0.012420 seconds
+  Import took 0.015543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_47.asset
+  artifactKey: Guid(c77c7d89528c946d1bd30f63457a029c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_47.asset using Guid(c77c7d89528c946d1bd30f63457a029c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6431e47fcde6be4b252c27fd0cde1bde') in 0.013625 seconds
+  Import took 0.016854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_51.asset
+  artifactKey: Guid(5c3e9c2a47955423f90c56a4df964674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_51.asset using Guid(5c3e9c2a47955423f90c56a4df964674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab09b471ddbe55a9f1d89a2f751bb0ce') in 0.016716 seconds
+  Import took 0.019938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_50.asset
+  artifactKey: Guid(78260968a533b471ba113bfa4ac04a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_50.asset using Guid(78260968a533b471ba113bfa4ac04a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0ebc118e126defd057162d2549bb4b6') in 0.011843 seconds
+  Import took 0.015383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_73.asset
+  artifactKey: Guid(7f88f20c1fb1b4a84938d2d2930326b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_73.asset using Guid(7f88f20c1fb1b4a84938d2d2930326b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c4dcd11c9036a89afa996f77ede71c') in 0.016288 seconds
+  Import took 0.020115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_67.asset
+  artifactKey: Guid(8967301c7b7fe4c0ba4c68d1694e1855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_67.asset using Guid(8967301c7b7fe4c0ba4c68d1694e1855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d41c644daff9ce36e4ca9059ba50e0f') in 0.012432 seconds
+  Import took 0.016355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_74.asset
+  artifactKey: Guid(c5f965a98e5a1414db6dba2b2e134f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_74.asset using Guid(c5f965a98e5a1414db6dba2b2e134f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c6005ae96854fb5497b3951e8bb232') in 0.012636 seconds
+  Import took 0.015968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_69.asset
+  artifactKey: Guid(26587d915f45c497baee241499b1e081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_69.asset using Guid(26587d915f45c497baee241499b1e081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b824a9d9730474654adc9a5feae9df10') in 0.011356 seconds
+  Import took 0.014644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_58.asset
+  artifactKey: Guid(84949be1e0dee4fde8f9ee8fa305ff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_58.asset using Guid(84949be1e0dee4fde8f9ee8fa305ff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '137ebe4420291853ca8756ff26f424c9') in 0.012499 seconds
+  Import took 0.016015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_48.asset
+  artifactKey: Guid(585428418bf1e49098395f99724594c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_48.asset using Guid(585428418bf1e49098395f99724594c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26c56379c4421fda1876613d79ca973') in 0.011855 seconds
+  Import took 0.015463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_55.asset
+  artifactKey: Guid(7e88ae836b62b4069ae00b330c9dab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_55.asset using Guid(7e88ae836b62b4069ae00b330c9dab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86182566c6f606120aa461bbba609b16') in 0.012834 seconds
+  Import took 0.016304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_57.asset
+  artifactKey: Guid(86ffb2967c79946f1b57d2e107890007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_57.asset using Guid(86ffb2967c79946f1b57d2e107890007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8488ddd632883332d1cd6af9f42e693a') in 0.012063 seconds
+  Import took 0.015390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_52.asset
+  artifactKey: Guid(ac3713a7b648349b88dd11f7546733b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_52.asset using Guid(ac3713a7b648349b88dd11f7546733b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd46b52847de54720791b52c2155251') in 0.013057 seconds
+  Import took 0.016722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_75.asset
+  artifactKey: Guid(ff300176e58c945c68c0454ea75d0416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_75.asset using Guid(ff300176e58c945c68c0454ea75d0416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10ac7e340510c2c318d6dbb3bd556f0') in 0.012293 seconds
+  Import took 0.015736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_54.asset
+  artifactKey: Guid(6fde0064ecb6c40d184c64ffe49529dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_54.asset using Guid(6fde0064ecb6c40d184c64ffe49529dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2094847aa379cb620ad503d8371b9c1b') in 0.012751 seconds
+  Import took 0.016417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_70.asset
+  artifactKey: Guid(7fbf5d3b13b84471888f08914b8ac003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_70.asset using Guid(7fbf5d3b13b84471888f08914b8ac003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f9d86b389ea4bb25c91338cd744e25') in 0.012441 seconds
+  Import took 0.015953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_77.asset
+  artifactKey: Guid(211479888a0764caba5f0d15054723c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_77.asset using Guid(211479888a0764caba5f0d15054723c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b49d3c22d76b5be1cec3c7151490336') in 0.012561 seconds
+  Import took 0.016302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_72.asset
+  artifactKey: Guid(03e85437608804f28b6366037e718c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_72.asset using Guid(03e85437608804f28b6366037e718c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24e1c626a5e8dc76cbbfb0b0835aabc') in 0.012603 seconds
+  Import took 0.015980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_76.asset
+  artifactKey: Guid(6c02a8aa0c60e45eba7da7a38b6c3b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_76.asset using Guid(6c02a8aa0c60e45eba7da7a38b6c3b78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9979549bd7703754e5188b512ad82566') in 0.013930 seconds
+  Import took 0.017177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_46.asset
+  artifactKey: Guid(4112286a73288427d8646b69ab3968cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_46.asset using Guid(4112286a73288427d8646b69ab3968cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f5e0c4fc819cb2e7ad4b6cf1f3fa34') in 0.016195 seconds
+  Import took 0.019626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_65.asset
+  artifactKey: Guid(2d55fd64ad3b94c40a7e05ae0d51e973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_65.asset using Guid(2d55fd64ad3b94c40a7e05ae0d51e973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e316f950c2de27bfc9ff2879e92c1c68') in 0.013956 seconds
+  Import took 0.017405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_61.asset
+  artifactKey: Guid(2b03a9c89048a485c953996d870c6bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_61.asset using Guid(2b03a9c89048a485c953996d870c6bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6939474a63dee990135b71eea375fea8') in 0.012557 seconds
+  Import took 0.015940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_78.asset
+  artifactKey: Guid(0ef42deda6bf54e4b855fbad1aeea352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_78.asset using Guid(0ef42deda6bf54e4b855fbad1aeea352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b12a4b5ff1360c2cddffb8e8c3be012') in 0.011321 seconds
+  Import took 0.014927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_87.asset
+  artifactKey: Guid(55672899cf7d54fe3864866666cf7a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_87.asset using Guid(55672899cf7d54fe3864866666cf7a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d89673961f2418424db96200dcb0096') in 0.012403 seconds
+  Import took 0.016266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_92.asset
+  artifactKey: Guid(eb94bc7b440fb4987910490cef089c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_92.asset using Guid(eb94bc7b440fb4987910490cef089c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b804ec24c388622cca145d2264e677a') in 0.011443 seconds
+  Import took 0.014926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_84.asset
+  artifactKey: Guid(f7f71c0bdcb424feabea2dde1717493e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_84.asset using Guid(f7f71c0bdcb424feabea2dde1717493e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdbf045afad34555807cd0ae7f55a5d1') in 0.012004 seconds
+  Import took 0.015313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_94.asset
+  artifactKey: Guid(9555101ec369e458fb2aaaffb58de43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_94.asset using Guid(9555101ec369e458fb2aaaffb58de43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05faa422cd95287c4dda4a4df34ace6c') in 0.013149 seconds
+  Import took 0.017003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_81.asset
+  artifactKey: Guid(ab28f93bc259d4a3c85dc9b4d8f3f980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_81.asset using Guid(ab28f93bc259d4a3c85dc9b4d8f3f980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124ba91b906c579f6b7a385bdc751b54') in 0.011755 seconds
+  Import took 0.015593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_105.asset
+  artifactKey: Guid(18ff0f94a19714c94bc345c187259bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_105.asset using Guid(18ff0f94a19714c94bc345c187259bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74992fb7444363347062f297a2492a88') in 0.013344 seconds
+  Import took 0.016711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_90.asset
+  artifactKey: Guid(5fc30d02f09b746c7845b4de5d0caf8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_90.asset using Guid(5fc30d02f09b746c7845b4de5d0caf8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f1e3740cd0237828226298cdb7d7c2') in 0.012401 seconds
+  Import took 0.015587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_112.asset
+  artifactKey: Guid(368c3152f868b4829b89bb82ce9104fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_112.asset using Guid(368c3152f868b4829b89bb82ce9104fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1cc8db85e78a74d525d585e39c416ea') in 0.012432 seconds
+  Import took 0.015810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_91.asset
+  artifactKey: Guid(58565166964a04ce09f6ac424fb8c6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_91.asset using Guid(58565166964a04ce09f6ac424fb8c6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b395408e8ca5eb0c5255ce2c05b316c4') in 0.013350 seconds
+  Import took 0.016734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_125.asset
+  artifactKey: Guid(5ca700cdcb76643a1b9c2032ef992150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_125.asset using Guid(5ca700cdcb76643a1b9c2032ef992150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff104401f51b9e98c2dcb0c6ef75956') in 0.011545 seconds
+  Import took 0.015006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_110.asset
+  artifactKey: Guid(dff4711865cd2480899557955718c13b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_110.asset using Guid(dff4711865cd2480899557955718c13b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034de157cc599f003aaacac768ea0a55') in 0.013234 seconds
+  Import took 0.016850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_123.asset
+  artifactKey: Guid(4ae62f0e0d3434b0bb91c8c6093f670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_123.asset using Guid(4ae62f0e0d3434b0bb91c8c6093f670b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46e204435d19e259188ab60c9209d34') in 0.010866 seconds
+  Import took 0.014344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_113.asset
+  artifactKey: Guid(4337ec9d4da194ea1a82c637d0c43cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_113.asset using Guid(4337ec9d4da194ea1a82c637d0c43cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd86c7bb481f472040cf274e2e5c23f1f') in 0.012627 seconds
+  Import took 0.016320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_101.asset
+  artifactKey: Guid(74f62680fd6624cf081f1f64e3b1b885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_101.asset using Guid(74f62680fd6624cf081f1f64e3b1b885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c922956f2343aeed6479cbf64702ffee') in 0.011474 seconds
+  Import took 0.014999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_103.asset
+  artifactKey: Guid(1f026dcfca7924a6fbdd1d31fe9afc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_103.asset using Guid(1f026dcfca7924a6fbdd1d31fe9afc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f622179979e82d3850aa54c78ff4640') in 0.012486 seconds
+  Import took 0.016495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_131.asset
+  artifactKey: Guid(8b5c53e75a60f4921826fab6d0adafdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_131.asset using Guid(8b5c53e75a60f4921826fab6d0adafdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0d86368427f74293e28cb75fa9fe8a') in 0.011232 seconds
+  Import took 0.015475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_98.asset
+  artifactKey: Guid(5b019c9f3ee904ab5a945ec8ff5de558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_98.asset using Guid(5b019c9f3ee904ab5a945ec8ff5de558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a5d16565c843a37e3b1f54a8f4b552b') in 0.013292 seconds
+  Import took 0.017440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_102.asset
+  artifactKey: Guid(7c8aaae341ba948088d4b6386bb7055a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_102.asset using Guid(7c8aaae341ba948088d4b6386bb7055a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5564b5f54c46222bd32a82425f0e5b') in 0.013633 seconds
+  Import took 0.017617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_56.asset
+  artifactKey: Guid(44ffad95e7c964c31af6b8017fbac7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_56.asset using Guid(44ffad95e7c964c31af6b8017fbac7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d56bbfb8a2e7d13ecfdec7c1778c9e') in 0.016169 seconds
+  Import took 0.019568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_107.asset
+  artifactKey: Guid(fd2241bf9f2184ac0894ae11e2c6bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_107.asset using Guid(fd2241bf9f2184ac0894ae11e2c6bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b02628775628582ffb3580d554f33dc') in 0.012768 seconds
+  Import took 0.016163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_86.asset
+  artifactKey: Guid(49afbd3012aa34168890eb9db5f2127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_86.asset using Guid(49afbd3012aa34168890eb9db5f2127d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8258b20c272910de6ce992ca12e2d3b') in 0.011316 seconds
+  Import took 0.014582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_136.asset
+  artifactKey: Guid(a320fca36fd4949cf8d3700f74b9e540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_136.asset using Guid(a320fca36fd4949cf8d3700f74b9e540) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad8b15385db13e9436c31cecffd84cc') in 0.014508 seconds
+  Import took 0.017815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_135.asset
+  artifactKey: Guid(c11b9f726e10f4e28a7eec1db808c66a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_135.asset using Guid(c11b9f726e10f4e28a7eec1db808c66a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316a5ed08b5d1b702ceb2d7667141ae9') in 0.011569 seconds
+  Import took 0.015066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_149.asset
+  artifactKey: Guid(8fd8adb111b07498dbf3ca3b6641b33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_149.asset using Guid(8fd8adb111b07498dbf3ca3b6641b33f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a67e270ffa14e81e71cbdb8a35a43bdb') in 0.011468 seconds
+  Import took 0.015015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_156.asset
+  artifactKey: Guid(2435f5b97795b44eea8085a40aad00da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_156.asset using Guid(2435f5b97795b44eea8085a40aad00da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ea841981a84c6f2da10b25a2529031d') in 0.013354 seconds
+  Import took 0.017450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_163.asset
+  artifactKey: Guid(d31889644e8af452fa523f7d48863aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_163.asset using Guid(d31889644e8af452fa523f7d48863aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ff5dabaf50e023436f2d7d754add53') in 0.011734 seconds
+  Import took 0.015570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_172.asset
+  artifactKey: Guid(9d4aba4bc50344487bf58d796f2d87e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_172.asset using Guid(9d4aba4bc50344487bf58d796f2d87e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d411000f7489921676c15588016c731') in 0.012525 seconds
+  Import took 0.016096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_187.asset
+  artifactKey: Guid(46dc390ad5afa46bab5d6ea54a209593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_187.asset using Guid(46dc390ad5afa46bab5d6ea54a209593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1ec6f4c718df26d0a5491a7f57a6ca') in 0.012481 seconds
+  Import took 0.016043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_178.asset
+  artifactKey: Guid(48d36637db506435a8c8f0b3e96ad599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_178.asset using Guid(48d36637db506435a8c8f0b3e96ad599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb2e909e00c0dc057147993e48597437') in 0.010793 seconds
+  Import took 0.014039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_185.asset
+  artifactKey: Guid(95806d925d0f145b4937f97fb0d861e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_185.asset using Guid(95806d925d0f145b4937f97fb0d861e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df55d3e18fa4d1e349849d94db32989') in 0.012925 seconds
+  Import took 0.016595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_198.asset
+  artifactKey: Guid(bdc1c64012e064582bec425ad86f513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_198.asset using Guid(bdc1c64012e064582bec425ad86f513d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e1c48bb619c9edb9245edb463e7eea') in 0.012200 seconds
+  Import took 0.016616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_165.asset
+  artifactKey: Guid(88a652fbaebc948edbaecb2a72ae7c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_165.asset using Guid(88a652fbaebc948edbaecb2a72ae7c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b178e0f1ceacb60475ff62ad6b66d20a') in 0.012143 seconds
+  Import took 0.016258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_167.asset
+  artifactKey: Guid(67b85b6982730414ea5e8e832ac46002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_167.asset using Guid(67b85b6982730414ea5e8e832ac46002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52d69fadd692cb3e857cda63de270a61') in 0.012125 seconds
+  Import took 0.017125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_150.asset
+  artifactKey: Guid(a74671110fa944eb9b19fa8e3c032c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_150.asset using Guid(a74671110fa944eb9b19fa8e3c032c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b431fff273f2ff20e7bd14f9fe45dcda') in 0.011693 seconds
+  Import took 0.015517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_183.asset
+  artifactKey: Guid(c973dc99d53c44042a782ae183627b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_183.asset using Guid(c973dc99d53c44042a782ae183627b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f996255114426cbf1b2d002034734307') in 0.012000 seconds
+  Import took 0.015660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_184.asset
+  artifactKey: Guid(a9741b505e5c5495d94c784f0e51561b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_184.asset using Guid(a9741b505e5c5495d94c784f0e51561b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61938cdbc7fbe155def18d1061b12a63') in 0.011105 seconds
+  Import took 0.015785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_134.asset
+  artifactKey: Guid(91cbabaa17acd4b23b4eb44e58a24065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_134.asset using Guid(91cbabaa17acd4b23b4eb44e58a24065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c09fac4f5c288a800d0b98eeff364b43') in 0.012448 seconds
+  Import took 0.016688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_164.asset
+  artifactKey: Guid(b5206c6ca642048e5869360869220a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_164.asset using Guid(b5206c6ca642048e5869360869220a82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3bfe8b0e08c4a1479ebf4e484c7031c') in 0.012197 seconds
+  Import took 0.016974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_161.asset
+  artifactKey: Guid(382acc238e1a64b92bf1c4708ec5f1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_161.asset using Guid(382acc238e1a64b92bf1c4708ec5f1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903cbc1e7456b07e70661f94003718cc') in 0.013420 seconds
+  Import took 0.018466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_180.asset
+  artifactKey: Guid(e5504ea3a31454288bf1002a3b4dc8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_180.asset using Guid(e5504ea3a31454288bf1002a3b4dc8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd642576f32b7bcf58012f084c87c69b3') in 0.011130 seconds
+  Import took 0.014679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_166.asset
+  artifactKey: Guid(86ca9da0c381748b18a3a7d66a875a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_166.asset using Guid(86ca9da0c381748b18a3a7d66a875a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9027be445a8e7639e399f6aa45e61459') in 0.012839 seconds
+  Import took 0.017750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_160.asset
+  artifactKey: Guid(7bb8b731302dd41d1ac472bbeded0010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_160.asset using Guid(7bb8b731302dd41d1ac472bbeded0010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07986861153dfdc88ad342b8eb27425') in 0.011262 seconds
+  Import took 0.015596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_174.asset
+  artifactKey: Guid(745f08ba8f70b407e9a5faf499ab049a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_174.asset using Guid(745f08ba8f70b407e9a5faf499ab049a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963e1c6729da5afc15acd51d4db3ce79') in 0.013301 seconds
+  Import took 0.017688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_186.asset
+  artifactKey: Guid(537f7672dac2d4598895ea6817c41cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_186.asset using Guid(537f7672dac2d4598895ea6817c41cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d5f617f8838ecefdbc4344aae58975e') in 0.016366 seconds
+  Import took 0.020115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_191.asset
+  artifactKey: Guid(2fd8c7b26c35846fab578c4287bbd1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_191.asset using Guid(2fd8c7b26c35846fab578c4287bbd1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cb55f5350456005ed294700b0d6ab2') in 0.015130 seconds
+  Import took 0.018850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_144.asset
+  artifactKey: Guid(f3962aff9b7c041b8aa3303532b7e5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_144.asset using Guid(f3962aff9b7c041b8aa3303532b7e5f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854bb5a5bfdc8a8408f1927d32f7b515') in 0.011674 seconds
+  Import took 0.015259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_147.asset
+  artifactKey: Guid(363510a31924c4486aa5a73494918048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_147.asset using Guid(363510a31924c4486aa5a73494918048) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56561b8a795f0d4dd5accf4bed2956fa') in 0.013035 seconds
+  Import took 0.016539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_138.asset
+  artifactKey: Guid(4148c44362cc74e04a4c084ea9aef13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_138.asset using Guid(4148c44362cc74e04a4c084ea9aef13d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcd2af3e5a5cd01fef4d4c5f9d7ab8cc') in 0.011645 seconds
+  Import took 0.014859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_197.asset
+  artifactKey: Guid(a2bb9215d5af94542869a80b9a30e0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_197.asset using Guid(a2bb9215d5af94542869a80b9a30e0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb5409e08e18ce4a6d06cb761557197a') in 0.013647 seconds
+  Import took 0.017171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_143.asset
+  artifactKey: Guid(03a5339a1fa2d492d9938e5a56bee2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_143.asset using Guid(03a5339a1fa2d492d9938e5a56bee2ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4cc8603cdde5813aa5762f48f29020') in 0.011184 seconds
+  Import took 0.014404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_173.asset
+  artifactKey: Guid(6665c6cbcf2ed4357a680a9c9aa71b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_173.asset using Guid(6665c6cbcf2ed4357a680a9c9aa71b64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d8f17fbda1dd528149da88c911c395') in 0.012929 seconds
+  Import took 0.016441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_142.asset
+  artifactKey: Guid(630484c3b7053457cb95bd8fb41bbfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_142.asset using Guid(630484c3b7053457cb95bd8fb41bbfe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ababa0b1fc26fd51ac19748cbdf0117') in 0.012004 seconds
+  Import took 0.015538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_146.asset
+  artifactKey: Guid(3abb0286631c04d6ea07537aa42df5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_146.asset using Guid(3abb0286631c04d6ea07537aa42df5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad84415a71e178a1ec9259066648471') in 0.012349 seconds
+  Import took 0.015769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_114.asset
+  artifactKey: Guid(27e408974cd344c8ab9e63906f4a1ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_114.asset using Guid(27e408974cd344c8ab9e63906f4a1ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9d1c4c56113ca25a157c85892c846e') in 0.012430 seconds
+  Import took 0.016025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_116.asset
+  artifactKey: Guid(8e601402a36c74f718e4b327d26485f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_116.asset using Guid(8e601402a36c74f718e4b327d26485f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963ab4c162fd33f9758d041906f2dd45') in 0.012141 seconds
+  Import took 0.015591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_129.asset
+  artifactKey: Guid(d08e7f7b9be5a401a86f031a76d66f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_129.asset using Guid(d08e7f7b9be5a401a86f031a76d66f54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047ec05342edfd8c3628938eca02e700') in 0.013106 seconds
+  Import took 0.017122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_177.asset
+  artifactKey: Guid(243e76c5ae8bd46989c2960717787e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_177.asset using Guid(243e76c5ae8bd46989c2960717787e01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1114ce866735390ef4633565dc4df4ef') in 0.013961 seconds
+  Import took 0.017197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_64.asset
+  artifactKey: Guid(215f700d612fc41768bf3f502cc80254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_64.asset using Guid(215f700d612fc41768bf3f502cc80254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85be6a802f3c2b5c4da81fa15334149c') in 0.013659 seconds
+  Import took 0.016891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_83.asset
+  artifactKey: Guid(3e89bb952f3214b4983c23ac20fb2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_83.asset using Guid(3e89bb952f3214b4983c23ac20fb2f6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b062efd8dff4a4bc6654c9717b8d6d8') in 0.013851 seconds
+  Import took 0.017264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_140.asset
+  artifactKey: Guid(96885b220b8bf43a3bdcae6b0adfc2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_140.asset using Guid(96885b220b8bf43a3bdcae6b0adfc2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'def0885a497cb7ed57ae8ea581f7fc98') in 0.013576 seconds
+  Import took 0.017077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_171.asset
+  artifactKey: Guid(6a87a507201774270b733327242a5a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_171.asset using Guid(6a87a507201774270b733327242a5a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3276cf3b36b804cca6e44e84fda0462e') in 0.012138 seconds
+  Import took 0.015665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_118.asset
+  artifactKey: Guid(e058524d6162a4012a844eb16f3cfb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_118.asset using Guid(e058524d6162a4012a844eb16f3cfb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9450fc2a91f62724c358afaa39797af5') in 0.013547 seconds
+  Import took 0.017128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_66.asset
+  artifactKey: Guid(f54f4cadc6db14acfad38660714683f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_66.asset using Guid(f54f4cadc6db14acfad38660714683f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ca3f2ff53544da3adb401fa9b8e9c9') in 0.012594 seconds
+  Import took 0.016070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_68.asset
+  artifactKey: Guid(7870df48676f54100b9f3620087a6389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_68.asset using Guid(7870df48676f54100b9f3620087a6389) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91f8f08e7e2969da88862a4b7b348d89') in 0.013233 seconds
+  Import took 0.017035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_148.asset
+  artifactKey: Guid(e2a9eb80b02e648cb9554b0c64de7ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_148.asset using Guid(e2a9eb80b02e648cb9554b0c64de7ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a65f251608e555e27f80ad5f0ae94b') in 0.013726 seconds
+  Import took 0.017225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_193.asset
+  artifactKey: Guid(e36f6d8534cb148f087d07b13042bd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_193.asset using Guid(e36f6d8534cb148f087d07b13042bd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91153f5691809e4041daa869717ced90') in 0.014428 seconds
+  Import took 0.018096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_175.asset
+  artifactKey: Guid(6cb9bb5042590460d871bfeb414ef023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_175.asset using Guid(6cb9bb5042590460d871bfeb414ef023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7876e1df8071ee20850d00836d316e07') in 0.011896 seconds
+  Import took 0.015391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_157.asset
+  artifactKey: Guid(1d21e64e5b3d04a739373c22f9305e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_157.asset using Guid(1d21e64e5b3d04a739373c22f9305e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1c644c45d221f534a86f643ba62cfaf') in 0.014322 seconds
+  Import took 0.018111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_195.asset
+  artifactKey: Guid(4031a9401911c4118a7a033c41a8933d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_195.asset using Guid(4031a9401911c4118a7a033c41a8933d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179391cc8d4bffd8549b42e6c665906a') in 0.012446 seconds
+  Import took 0.016060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_194.asset
+  artifactKey: Guid(2f5522ae46a58478788bde5e34368a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_194.asset using Guid(2f5522ae46a58478788bde5e34368a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c600195cc448c34e9b2f6735c8808e3') in 0.014562 seconds
+  Import took 0.018504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_79.asset
+  artifactKey: Guid(bc205bce714c64cadbc3a34293e90404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_79.asset using Guid(bc205bce714c64cadbc3a34293e90404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eda3f1fd1fe78de4e97a70f4e595a5b') in 0.012815 seconds
+  Import took 0.016485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_115.asset
+  artifactKey: Guid(ee18174d5c3ca4d848857f96a37d581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_115.asset using Guid(ee18174d5c3ca4d848857f96a37d581b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca46d8206f4d2981861f276cf6992df6') in 0.013642 seconds
+  Import took 0.017656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_108.asset
+  artifactKey: Guid(30c1e8a1b5fe94b539f6c19e4c2c91da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_108.asset using Guid(30c1e8a1b5fe94b539f6c19e4c2c91da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424607d85e7869cdea31d6f75a51e800') in 0.011708 seconds
+  Import took 0.015464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_122.asset
+  artifactKey: Guid(3259c5bb31e3b4334b5ba6f6389770d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_122.asset using Guid(3259c5bb31e3b4334b5ba6f6389770d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e5d02fbee9807385d6bda88dad020d4') in 0.014329 seconds
+  Import took 0.018456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_141.asset
+  artifactKey: Guid(939142bc0e5db42db9876b799b52a7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_141.asset using Guid(939142bc0e5db42db9876b799b52a7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '895b4c9ffff40da91e9a2ea1103da562') in 0.013744 seconds
+  Import took 0.017749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_85.asset
+  artifactKey: Guid(35e2d0435ac644948b5124d9650308b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_85.asset using Guid(35e2d0435ac644948b5124d9650308b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '160327aa844c7b163dff8bd9b5928708') in 0.013417 seconds
+  Import took 0.017316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_109.asset
+  artifactKey: Guid(81c6c19a50f6d42aba5361ca49348f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_109.asset using Guid(81c6c19a50f6d42aba5361ca49348f86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '495a3f7eb5bfeec4b47e7054761face6') in 0.013394 seconds
+  Import took 0.017194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_188.asset
+  artifactKey: Guid(90f761380f21f48b39346717f08e5a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_188.asset using Guid(90f761380f21f48b39346717f08e5a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d155ac4e93385d6b346d1cacb0ede3') in 0.011484 seconds
+  Import took 0.015626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_132.asset
+  artifactKey: Guid(36cad6d6d2198410e9c761a637e79b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_132.asset using Guid(36cad6d6d2198410e9c761a637e79b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227428bd41366c2ddb95ff910125341b') in 0.012818 seconds
+  Import took 0.016322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_97.asset
+  artifactKey: Guid(944dd7a65574348edb819620e3d9242c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_97.asset using Guid(944dd7a65574348edb819620e3d9242c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02be929a61398854103e50d21ae4459c') in 0.011267 seconds
+  Import took 0.015610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_126.asset
+  artifactKey: Guid(4fa349bd1ad144c7d97ef2df77586b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_126.asset using Guid(4fa349bd1ad144c7d97ef2df77586b69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba249f3e1c77f2f196d26d2972e3e684') in 0.012588 seconds
+  Import took 0.016650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_117.asset
+  artifactKey: Guid(4c49421c80169417fa23eeef1398befd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_117.asset using Guid(4c49421c80169417fa23eeef1398befd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a0672a71612e9e54964cdac4a7d9c7') in 0.012300 seconds
+  Import took 0.017105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_192.asset
+  artifactKey: Guid(b7cba1a0343a643bea9c0e05f4359f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_192.asset using Guid(b7cba1a0343a643bea9c0e05f4359f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f2e7c7ac6c2c79bf13c9e1b9f0f3bc') in 0.013748 seconds
+  Import took 0.017805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_130.asset
+  artifactKey: Guid(352779cb1dd7a43efb55a1f097b1a56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_130.asset using Guid(352779cb1dd7a43efb55a1f097b1a56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1889385dfca4751142bff7531f3614a7') in 0.011637 seconds
+  Import took 0.016203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_82.asset
+  artifactKey: Guid(fd8d858160fb64076aa05e4a247c438a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_82.asset using Guid(fd8d858160fb64076aa05e4a247c438a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f69f7a24a88ad925653b840f50ca32f') in 0.011843 seconds
+  Import took 0.015810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_196.asset
+  artifactKey: Guid(11c23157c106b47829d6132a2ce48037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_196.asset using Guid(11c23157c106b47829d6132a2ce48037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee5595a04208bc9f19554e0c1e51fb8') in 0.011648 seconds
+  Import took 0.015688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_120.asset
+  artifactKey: Guid(349f39d04e2db4360b7170f28ad4f0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_120.asset using Guid(349f39d04e2db4360b7170f28ad4f0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f100ed40a7173d46ae7940bc34568b27') in 0.011420 seconds
+  Import took 0.015568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_190.asset
+  artifactKey: Guid(b88980c6a31a1487583a9f45a8c681d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_190.asset using Guid(b88980c6a31a1487583a9f45a8c681d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9292e3469735b6f2f9624ca0e60dfa33') in 0.011568 seconds
+  Import took 0.015519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_80.asset
+  artifactKey: Guid(e1a57d73e2c6b4ed1904806a8a043867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_80.asset using Guid(e1a57d73e2c6b4ed1904806a8a043867) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac9b489e68f743c786ad5843db33bd7a') in 0.011972 seconds
+  Import took 0.015495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_93.asset
+  artifactKey: Guid(b7fecda0462b64548b209dd238078e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_93.asset using Guid(b7fecda0462b64548b209dd238078e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1904af73fd94897f70f842ecf0ecee') in 0.012433 seconds
+  Import took 0.016096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_162.asset
+  artifactKey: Guid(10ff98e503d65415297daaedef9b25d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_162.asset using Guid(10ff98e503d65415297daaedef9b25d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9f027c6be02f7d9b7c266fd359811c') in 0.012048 seconds
+  Import took 0.015693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_104.asset
+  artifactKey: Guid(292b64a15f9304e0da4f1702cec0c15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_104.asset using Guid(292b64a15f9304e0da4f1702cec0c15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7d1b182f7e060373a2ee266181a4d2') in 0.012163 seconds
+  Import took 0.015668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_128.asset
+  artifactKey: Guid(970e4775e60454a3481f6b094d54f010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_128.asset using Guid(970e4775e60454a3481f6b094d54f010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d995d4476f5cf1f609523b34dfc4441') in 0.012975 seconds
+  Import took 0.016685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_100.asset
+  artifactKey: Guid(6ffef49610b0f481b972e99761c100c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_100.asset using Guid(6ffef49610b0f481b972e99761c100c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6bb8c58377afe1d9e890abbdd404b1d') in 0.013384 seconds
+  Import took 0.017058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_152.asset
+  artifactKey: Guid(e72486bbd867e42e791ed7af4ed6c6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_152.asset using Guid(e72486bbd867e42e791ed7af4ed6c6f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feaa14e893ae694818322614a2d4e2f0') in 0.013803 seconds
+  Import took 0.017590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_170.asset
+  artifactKey: Guid(5c8c81c59b57e4417baa56626c90580e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_170.asset using Guid(5c8c81c59b57e4417baa56626c90580e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462e705a7feb870cca189dc4f4ad3273') in 0.012184 seconds
+  Import took 0.015655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_137.asset
+  artifactKey: Guid(ea09e9f9400b648ad997cc28993c3a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_137.asset using Guid(ea09e9f9400b648ad997cc28993c3a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cf80163639abebf6453b834e02269c') in 0.011882 seconds
+  Import took 0.015318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_95.asset
+  artifactKey: Guid(1b551dad1b48d49afb60900008da1a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_95.asset using Guid(1b551dad1b48d49afb60900008da1a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31db1f9ec7d6788f4590584960b305ee') in 0.013728 seconds
+  Import took 0.017124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_159.asset
+  artifactKey: Guid(19b97535b9e6244db9ca8fa99350b8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_159.asset using Guid(19b97535b9e6244db9ca8fa99350b8ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63ad494b92606fca69ce0ecdfb9ee22') in 0.012133 seconds
+  Import took 0.016074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_182.asset
+  artifactKey: Guid(7d68294ce582c4b7daf6cddeb3101359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_182.asset using Guid(7d68294ce582c4b7daf6cddeb3101359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9160c0a8b4b9fe099aa1c68af59ef6e') in 0.012352 seconds
+  Import took 0.015861 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_99.asset
+  artifactKey: Guid(d1a2e376fc91f476091d4565a9250853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_99.asset using Guid(d1a2e376fc91f476091d4565a9250853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb6e90eaf456fb5e02c29163d065fcfb') in 0.012407 seconds
+  Import took 0.015970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_133.asset
+  artifactKey: Guid(a7e6524fd9499493e9d446692555ae91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_133.asset using Guid(a7e6524fd9499493e9d446692555ae91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4953dbf8853d4077365094ce63ec7d8c') in 0.013574 seconds
+  Import took 0.017302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_106.asset
+  artifactKey: Guid(ce475ba68cb274d47bce45d7663f1f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_106.asset using Guid(ce475ba68cb274d47bce45d7663f1f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f407466d607c62e1e47211618aa1805') in 0.014717 seconds
+  Import took 0.018951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_169.asset
+  artifactKey: Guid(bf1ddb0b591354f7b9253ddf64295299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_169.asset using Guid(bf1ddb0b591354f7b9253ddf64295299) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1906072d8a527aa81357096c219ed5fb') in 0.018282 seconds
+  Import took 0.022435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_158.asset
+  artifactKey: Guid(a6b87240319c14d6891d621578c321bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_158.asset using Guid(a6b87240319c14d6891d621578c321bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4905749e1f90d6a42c7fe797f522a48b') in 0.011556 seconds
+  Import took 0.015425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_49.asset
+  artifactKey: Guid(5c62bb73ee5644dc2809cf52bc154120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_49.asset using Guid(5c62bb73ee5644dc2809cf52bc154120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a56a1efe4cf332d391489ec39c5d14') in 0.014131 seconds
+  Import took 0.017763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_119.asset
+  artifactKey: Guid(325edb390d9e14522a429809b6b4b41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_119.asset using Guid(325edb390d9e14522a429809b6b4b41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88306c6c1d501f2856c1d5207508140d') in 0.012289 seconds
+  Import took 0.015781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_168.asset
+  artifactKey: Guid(baf6b5dfbd5684b3086b96d0c78171aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_168.asset using Guid(baf6b5dfbd5684b3086b96d0c78171aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b6fb54edc5fe411f0e882c9edc23c3') in 0.013119 seconds
+  Import took 0.016881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_60.asset
+  artifactKey: Guid(25127b4cc31764b12a3f6f3fd6ba0a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_60.asset using Guid(25127b4cc31764b12a3f6f3fd6ba0a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f252a5116e72713e5f2b1018c9fa3d4b') in 0.014070 seconds
+  Import took 0.018275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_127.asset
+  artifactKey: Guid(7d9f01ddc0add4445a531f7432b39c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_127.asset using Guid(7d9f01ddc0add4445a531f7432b39c03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '063845e4a9f4bdc883100443c6d72742') in 0.013624 seconds
+  Import took 0.017250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_145.asset
+  artifactKey: Guid(49b687ab311654418a435b2264f4ee74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_145.asset using Guid(49b687ab311654418a435b2264f4ee74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b080edca8a367daeb7cdab9316ed411') in 0.012867 seconds
+  Import took 0.016317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_139.asset
+  artifactKey: Guid(795b6cb3fe72e4e9fbe63cdfcfe2b82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_139.asset using Guid(795b6cb3fe72e4e9fbe63cdfcfe2b82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34133afb9ce25053ca8a6d2630faa7b') in 0.012773 seconds
+  Import took 0.016220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_96.asset
+  artifactKey: Guid(31053f1790289492d92ca94a052210b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_96.asset using Guid(31053f1790289492d92ca94a052210b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7809910eca260e043b082bc285f222d') in 0.013268 seconds
+  Import took 0.017008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_154.asset
+  artifactKey: Guid(00ec00cc8123d430baa153a56061df58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_154.asset using Guid(00ec00cc8123d430baa153a56061df58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f7b3ab2eb7072e9eee2339b55992e1') in 0.013131 seconds
+  Import took 0.016959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_155.asset
+  artifactKey: Guid(de46cc243963747a3b9d554c1fb4c574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_155.asset using Guid(de46cc243963747a3b9d554c1fb4c574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f84452ce6d31968b479910a686744b3') in 0.011847 seconds
+  Import took 0.015314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_176.asset
+  artifactKey: Guid(04c99f680436442a291b019bcd779602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_176.asset using Guid(04c99f680436442a291b019bcd779602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368eda06b7fe3e8c498f21988365e6af') in 0.013832 seconds
+  Import took 0.017841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_189.asset
+  artifactKey: Guid(d208e0f5c401f413985368aa75423c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_189.asset using Guid(d208e0f5c401f413985368aa75423c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a96272455f15b055ae8746c7f9efee15') in 0.012155 seconds
+  Import took 0.015743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_121.asset
+  artifactKey: Guid(acc9d1d62b55b470fb520afafc28b42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_121.asset using Guid(acc9d1d62b55b470fb520afafc28b42d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df1dce7c2eec926be3e6a3a392a77d8') in 0.013597 seconds
+  Import took 0.017263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_179.asset
+  artifactKey: Guid(bbb773c9488ff48bf99f5775c8179047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_179.asset using Guid(bbb773c9488ff48bf99f5775c8179047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9618d81acb019797f62837dfaa7a7828') in 0.012649 seconds
+  Import took 0.015971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_124.asset
+  artifactKey: Guid(bb12b6ffe38b848b8928ce8ee47532a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_124.asset using Guid(bb12b6ffe38b848b8928ce8ee47532a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b1c1d565668bb02fca657e06b204527') in 0.013847 seconds
+  Import took 0.017674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_153.asset
+  artifactKey: Guid(38d973ea245554327854d6bb34072132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_153.asset using Guid(38d973ea245554327854d6bb34072132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4637f571e0068ae5e838a08f34133ca') in 0.012768 seconds
+  Import took 0.016387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_62.asset
+  artifactKey: Guid(06fb4e76310214aaeb2e9aeeae8a7469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_62.asset using Guid(06fb4e76310214aaeb2e9aeeae8a7469) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf1117794cea33a96730a3e510066fc') in 0.013386 seconds
+  Import took 0.017238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_88.asset
+  artifactKey: Guid(1c7b558c09d8b471b8a72e3a78d42eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_88.asset using Guid(1c7b558c09d8b471b8a72e3a78d42eb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee77e1fd66040b098a8b7abe3ac4a24f') in 0.013074 seconds
+  Import took 0.016889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_89.asset
+  artifactKey: Guid(eaecb0286a3f44ac09abdf071e6aca7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_89.asset using Guid(eaecb0286a3f44ac09abdf071e6aca7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea1d0f4a6d49d46fb877c4b0499faf8') in 0.016732 seconds
+  Import took 0.020303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_111.asset
+  artifactKey: Guid(5ee4020b92e3f4f3da9fc6bf2e322ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_111.asset using Guid(5ee4020b92e3f4f3da9fc6bf2e322ff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8eeecfe478167f3e4a4a45770b412d') in 0.013644 seconds
+  Import took 0.017801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_151.asset
+  artifactKey: Guid(f2ebb2e7ec7374c009d9279b08cd1ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_151.asset using Guid(f2ebb2e7ec7374c009d9279b08cd1ecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '005e17ca8a350942c4204373df4dba2e') in 0.011676 seconds
+  Import took 0.016191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_71.asset
+  artifactKey: Guid(4d18e8aca420e4fac8873a10d6cbce6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_71.asset using Guid(4d18e8aca420e4fac8873a10d6cbce6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721eeefbc4b59d56cb63e1afe49409e1') in 0.012770 seconds
+  Import took 0.016760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_59.asset
+  artifactKey: Guid(77843480c4fa84a9b8a4d3ecdce3fd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_59.asset using Guid(77843480c4fa84a9b8a4d3ecdce3fd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee55f7d8febddb7763804da866683a67') in 0.012100 seconds
+  Import took 0.017144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_181.asset
+  artifactKey: Guid(9ffe2ca2199c844a38c6a982d1c1ce75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon/assetpack/Tiles/s4m_ur4i-metroidvania-1.3_181.asset using Guid(9ffe2ca2199c844a38c6a982d1c1ce75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8946143010e5e774e521300d6cfd12') in 0.011667 seconds
+  Import took 0.015985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.169485 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(8f1773d580d16744f970554041102cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(8f1773d580d16744f970554041102cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f5ab3013a4073dca20c0594b66a08d') in 0.010230 seconds
+  Import took 0.014330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.919391 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f37ef2eef77137e035c21d6b8a13c5') in 0.010039 seconds
+  Import took 0.013414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.044333 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f7cd50ae2fb6a35b4e594c6204251c') in 0.009124 seconds
+  Import took 0.012975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 519.530218 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
+  artifactKey: Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png using Guid(71ebafeef3c03457483266a33ab2b270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae7fd05d387bb4a0a3c49ac90a7116f3') in 0.068421 seconds
+  Import took 0.073062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleWithBorder.png
+  artifactKey: Guid(4adeaf2d2b1c7417e89f026626d8264f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleWithBorder.png using Guid(4adeaf2d2b1c7417e89f026626d8264f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b120836a0787797e5f869659b5674e') in 0.034627 seconds
+  Import took 0.038625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamondWithBorder.png
+  artifactKey: Guid(0d267bc78a0864eb48358689b29ed20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamondWithBorder.png using Guid(0d267bc78a0864eb48358689b29ed20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae2e6fded4876d41d99fe6ae75910b20') in 0.035395 seconds
+  Import took 0.039281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png
+  artifactKey: Guid(eed45a33cd08446c8b88325cf82fc52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png using Guid(eed45a33cd08446c8b88325cf82fc52f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f01675e0b57dfa91e1c08ae4da83f4') in 0.033725 seconds
+  Import took 0.037143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png
+  artifactKey: Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png using Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb85014f30852fca596329e57d091113') in 0.045903 seconds
+  Import took 0.049329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png
+  artifactKey: Guid(87aaca0a643d54397ba969dab4fc8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png using Guid(87aaca0a643d54397ba969dab4fc8875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc883c1b9053815a42fc188cfdfd61e') in 0.034404 seconds
+  Import took 0.037678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png
+  artifactKey: Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png using Guid(bd3cb4af8406d4436a2ae8c2aafe1f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb85014f30852fca596329e57d091113') in 0.011322 seconds
+  Import took 0.014513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png
+  artifactKey: Guid(ebe73ca9363db456bacf42c025bb4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png using Guid(ebe73ca9363db456bacf42c025bb4847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444c3ab840dc7f63be0950421f2ff2e9') in 0.036753 seconds
+  Import took 0.040192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png
+  artifactKey: Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/SquareWithBorder.png using Guid(db750325989564987a34393247d883b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74d2803d8737f3cb1ac40c3d4821eac4') in 0.045830 seconds
+  Import took 0.049279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png
+  artifactKey: Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png using Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1139beb4e82f3abb3c92b84ce915c1a5') in 0.032266 seconds
+  Import took 0.035802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-TopWithBorder.png
+  artifactKey: Guid(4b2a04fdbe0ef4d8da8f90eaca817cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-TopWithBorder.png using Guid(4b2a04fdbe0ef4d8da8f90eaca817cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b07dcf8f97bbad335300002f02be5d') in 0.047226 seconds
+  Import took 0.050696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png
+  artifactKey: Guid(16037dbd798344f57a526d53d48f5ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png using Guid(16037dbd798344f57a526d53d48f5ead) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97ecc78e36ebae28a8113344e074f053') in 0.033163 seconds
+  Import took 0.036504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png
+  artifactKey: Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png using Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939631fb5780b008f0df6705ee3988b2') in 0.044688 seconds
+  Import took 0.047952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+  artifactKey: Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png using Guid(48e93eef0688c4a259cb0eddcd8661f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6acb8e8628f8db597998cfa3c8dd94') in 0.015904 seconds
+  Import took 0.019449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png
+  artifactKey: Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-SlicedWithBorder.png using Guid(cc35afd292fc349128b36a291fb3a165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '939631fb5780b008f0df6705ee3988b2') in 0.012536 seconds
+  Import took 0.016073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-TopWithBorder.png
+  artifactKey: Guid(a9716c16a44a94eed9b5c90fbf4d9bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-TopWithBorder.png using Guid(a9716c16a44a94eed9b5c90fbf4d9bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369e5ef33986bb80c347ac874ba3fbbe') in 0.023217 seconds
+  Import took 0.026915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png
+  artifactKey: Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png using Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635e9428bfb27f5554a5aad419834f90') in 0.031726 seconds
+  Import took 0.035200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001948 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png
+  artifactKey: Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CapsuleWithBorder.png using Guid(34587324d412940a79d530020c957dc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '635e9428bfb27f5554a5aad419834f90') in 0.014554 seconds
+  Import took 0.018798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.962662 seconds.
+  path: Assets/Sprite Knight
+  artifactKey: Guid(2e3acd359c2f72644be0047064436105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight using Guid(2e3acd359c2f72644be0047064436105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dabd5727d29a281933625365e91c18fa') in 0.007915 seconds
+  Import took 0.011467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.630419 seconds.
+  path: Assets/Sprite Knight/Stay
+  artifactKey: Guid(f12f3547c62a75144a1fe5a2162db16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Stay using Guid(f12f3547c62a75144a1fe5a2162db16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfe6f4dcc457634484d6fc7341909a7') in 0.008013 seconds
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056992 seconds.
+  path: Assets/Sprite Knight/Stay/stay-1.png
+  artifactKey: Guid(10bb6db7c776dc743bffcc538e8a8539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Stay/stay-1.png using Guid(10bb6db7c776dc743bffcc538e8a8539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df3ec44404db9a4b42005f3b1fa98ce4') in 0.032019 seconds
+  Import took 0.035986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Sprite Knight/Stay/stay-2.png
+  artifactKey: Guid(5e7535b2a6f5c5444a05d960237bb7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Stay/stay-2.png using Guid(5e7535b2a6f5c5444a05d960237bb7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a04b793cecda154ca1b65e5120f527') in 0.022711 seconds
+  Import took 0.026445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003624 seconds.
+  path: Assets/Sprite Knight/Stay/stay-2.png
+  artifactKey: Guid(5e7535b2a6f5c5444a05d960237bb7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Stay/stay-2.png using Guid(5e7535b2a6f5c5444a05d960237bb7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a04b793cecda154ca1b65e5120f527') in 0.022232 seconds
+  Import took 0.025730 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001909 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 2.815300 ms (FindLiveObjects: 0.329900 ms CreateObjectMapping: 0.200700 ms MarkObjects: 2.142900 ms  DeleteObjects: 0.140400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001807 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.006 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2286.
+Total: 2.599100 ms (FindLiveObjects: 0.263400 ms CreateObjectMapping: 0.148700 ms MarkObjects: 2.067900 ms  DeleteObjects: 0.117900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001968 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.985 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2290.
+Total: 2.788200 ms (FindLiveObjects: 0.264300 ms CreateObjectMapping: 0.154000 ms MarkObjects: 2.213100 ms  DeleteObjects: 0.156100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1322.281500 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(83e4bb981784d774393b89cb3782f42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(83e4bb981784d774393b89cb3782f42e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc46bafc19c29f9957977c89235dd41') in 0.008433 seconds
+  Import took 0.012774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.683199 seconds.
+  path: Assets/Scripts/Knight
+  artifactKey: Guid(a611a0b3ca3f1c148aaa336909dda6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Knight using Guid(a611a0b3ca3f1c148aaa336909dda6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901d6a63572fddc65ee8304189893da1') in 0.010321 seconds
+  Import took 0.014144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.191418 seconds.
+  path: Assets/Scripts/Knight/Knight.cs
+  artifactKey: Guid(0561cca11e224a047a2adbd3d6f810a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Knight/Knight.cs using Guid(0561cca11e224a047a2adbd3d6f810a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d7d89e6f8bbc50ef5ab1377429d01a') in 0.003217 seconds
+  Import took 0.008035 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001737 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 3.410700 ms (FindLiveObjects: 0.259500 ms CreateObjectMapping: 0.148000 ms MarkObjects: 2.854400 ms  DeleteObjects: 0.147700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2298.
+Total: 3.078300 ms (FindLiveObjects: 0.258700 ms CreateObjectMapping: 0.145500 ms MarkObjects: 2.530600 ms  DeleteObjects: 0.141800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.253204 seconds.
+  path: Assets/Scripts/KnightController.cs
+  artifactKey: Guid(7ab7b576c2a98d04098fd3bd549aa077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/KnightController.cs using Guid(7ab7b576c2a98d04098fd3bd549aa077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c833754be34eafea50d082b20e42211b') in 0.012604 seconds
+  Import took 0.016929 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002046 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.224 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 4.169700 ms (FindLiveObjects: 0.844600 ms CreateObjectMapping: 0.751300 ms MarkObjects: 2.432000 ms  DeleteObjects: 0.138600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001979 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.112 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 2.693000 ms (FindLiveObjects: 0.263200 ms CreateObjectMapping: 0.145200 ms MarkObjects: 2.137500 ms  DeleteObjects: 0.146200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 2.990800 ms (FindLiveObjects: 0.339800 ms CreateObjectMapping: 0.242700 ms MarkObjects: 2.280100 ms  DeleteObjects: 0.126900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003080 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 2.751000 ms (FindLiveObjects: 0.265000 ms CreateObjectMapping: 0.147200 ms MarkObjects: 2.213800 ms  DeleteObjects: 0.123900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002270 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 16.750000 ms (FindLiveObjects: 0.775100 ms CreateObjectMapping: 0.291100 ms MarkObjects: 15.465800 ms  DeleteObjects: 0.195900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002066 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 2.823400 ms (FindLiveObjects: 0.268200 ms CreateObjectMapping: 0.148400 ms MarkObjects: 2.274400 ms  DeleteObjects: 0.130900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001824 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 2.529300 ms (FindLiveObjects: 0.285700 ms CreateObjectMapping: 0.149000 ms MarkObjects: 1.969200 ms  DeleteObjects: 0.124300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2029.410371 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c037ca2c5e51484f479ce63818a6327') in 0.025105 seconds
+  Import took 0.042378 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002144 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.042 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 2.876700 ms (FindLiveObjects: 0.280300 ms CreateObjectMapping: 0.147600 ms MarkObjects: 2.321900 ms  DeleteObjects: 0.125300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001916 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 2.632800 ms (FindLiveObjects: 0.270400 ms CreateObjectMapping: 0.148100 ms MarkObjects: 2.088400 ms  DeleteObjects: 0.124200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001804 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 2.778100 ms (FindLiveObjects: 0.305300 ms CreateObjectMapping: 0.151500 ms MarkObjects: 2.193400 ms  DeleteObjects: 0.126600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.389 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2343.
+Total: 3.690700 ms (FindLiveObjects: 0.735500 ms CreateObjectMapping: 0.501800 ms MarkObjects: 2.262900 ms  DeleteObjects: 0.189200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.509 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.8 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 4.544900 ms (FindLiveObjects: 0.327800 ms CreateObjectMapping: 0.337000 ms MarkObjects: 3.718700 ms  DeleteObjects: 0.159800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1658.941389 seconds.
+  path: Assets/Sprite Knight/Run
+  artifactKey: Guid(58f55a47634f7cb41b4fa8fe42dbba91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run using Guid(58f55a47634f7cb41b4fa8fe42dbba91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e41e989590fbc21a0dade578a334fed') in 0.022978 seconds
+  Import took 0.029812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044949 seconds.
+  path: Assets/Sprite Knight/Run/run-1.png
+  artifactKey: Guid(ac7b515fad9d49f42ac5c86b4c8d0f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-1.png using Guid(ac7b515fad9d49f42ac5c86b4c8d0f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68ee403d20a5948c39bf6dbfc9ecc57b') in 0.099888 seconds
+  Import took 0.109831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Sprite Knight/Run/run-4.png
+  artifactKey: Guid(4b81d809e5663e249af056e9a667e9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-4.png using Guid(4b81d809e5663e249af056e9a667e9a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae55b0c471f1382ca2d625887661938') in 0.039994 seconds
+  Import took 0.044866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Sprite Knight/Run/run-8.png
+  artifactKey: Guid(0ba787bf9e6f79541bd6c0c28537875d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-8.png using Guid(0ba787bf9e6f79541bd6c0c28537875d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b4cbc2d392b9bfeab8918d19a8c6e6e') in 0.048250 seconds
+  Import took 0.055077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Sprite Knight/Run/run-3.png
+  artifactKey: Guid(1df9b21951dd08846b4d901abec14f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-3.png using Guid(1df9b21951dd08846b4d901abec14f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e43dae758e37b592025894b6171f4ea2') in 0.035248 seconds
+  Import took 0.038778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Sprite Knight/Run/run-5.png
+  artifactKey: Guid(0e7e6aaf3396d794fbe8307824b47d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-5.png using Guid(0e7e6aaf3396d794fbe8307824b47d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a2d36af98120e17107071df13d2196') in 0.043909 seconds
+  Import took 0.047524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Sprite Knight/Run/run-7.png
+  artifactKey: Guid(30d212cbf9864ab4b881f49f93a44576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-7.png using Guid(30d212cbf9864ab4b881f49f93a44576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0cffebf37830e20df26a67809cdffb4') in 0.040123 seconds
+  Import took 0.046516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Sprite Knight/Run/run-2.png
+  artifactKey: Guid(955fd1fee7a65c549b4b5be2ceba1c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-2.png using Guid(955fd1fee7a65c549b4b5be2ceba1c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93ae2c20a329a68c150525e1e2f97b88') in 0.040518 seconds
+  Import took 0.045664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Sprite Knight/Run/run-6.png
+  artifactKey: Guid(398cd67820e223242999286b0c23e5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Run/run-6.png using Guid(398cd67820e223242999286b0c23e5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70755b34b0efd17ec257d5c8fe858c30') in 0.039781 seconds
+  Import took 0.044501 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.560 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2354.
+Total: 3.209200 ms (FindLiveObjects: 0.283400 ms CreateObjectMapping: 0.158800 ms MarkObjects: 2.631600 ms  DeleteObjects: 0.133800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 342.550821 seconds.
+  path: Assets/Sprite Knight/Jump
+  artifactKey: Guid(3a0eb49510bc3724aac0a702ec30630a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Jump using Guid(3a0eb49510bc3724aac0a702ec30630a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3c427702473cd13550d5833a26ae89') in 0.019416 seconds
+  Import took 0.026618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041440 seconds.
+  path: Assets/Sprite Knight/Jump/jump-3.png
+  artifactKey: Guid(b1693242bf1a0c14a9f371d8b75a0761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Jump/jump-3.png using Guid(b1693242bf1a0c14a9f371d8b75a0761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4c05ea2a9e8097d3dc0dd62dbf348b') in 0.103496 seconds
+  Import took 0.108176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Sprite Knight/Jump/jump-6.png
+  artifactKey: Guid(fe6e5342a4eebc5449079412d47787e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Jump/jump-6.png using Guid(fe6e5342a4eebc5449079412d47787e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ac485ed976a8b6ff6080297cd11a1a') in 0.056254 seconds
+  Import took 0.063583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 250.728600 seconds.
+  path: Assets/Sprite Knight/Jump/jump-2.png
+  artifactKey: Guid(4975200cd7a5ebf4b86abf1bf3c6a696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Jump/jump-2.png using Guid(4975200cd7a5ebf4b86abf1bf3c6a696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b940010d94c972d5385fed3fdf6ea86') in 0.047983 seconds
+  Import took 0.052964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.907055 seconds.
+  path: Assets/Sprite Knight/Jump/jump-2.png
+  artifactKey: Guid(4975200cd7a5ebf4b86abf1bf3c6a696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprite Knight/Jump/jump-2.png using Guid(4975200cd7a5ebf4b86abf1bf3c6a696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5dc79553b17e34fba1a648a9be8b7f7') in 0.045030 seconds
+  Import took 0.052038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 137.214430 seconds.
+  path: Assets/Animations/Knight.controller
+  artifactKey: Guid(e0410dedc3318dd4aa459caf1957c50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Knight.controller using Guid(e0410dedc3318dd4aa459caf1957c50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629860a9dee5ddf90b262ec1d819d79f') in 0.023206 seconds
+  Import took 0.030730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.938767 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(326b769f21744704696687a463b10516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(326b769f21744704696687a463b10516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61cb529d0b72be6446a5d958103c3872') in 0.013529 seconds
+  Import took 0.022264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.837668 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(b5117f336f2cab941bd0789a45aed70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(b5117f336f2cab941bd0789a45aed70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29627c6878d070c3436aaee9a9ff4c0') in 0.030967 seconds
+  Import took 0.037257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005043 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(b5117f336f2cab941bd0789a45aed70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(b5117f336f2cab941bd0789a45aed70e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29627c6878d070c3436aaee9a9ff4c0') in 0.008455 seconds
+  Import took 0.019764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.450465 seconds.
+  path: Assets/Animations/Jump.anim
+  artifactKey: Guid(bd34df84bf6eaec4d9c37cec2f4056d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Jump.anim using Guid(bd34df84bf6eaec4d9c37cec2f4056d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b221f986d736af936b5f87a9793c29f7') in 0.014568 seconds
+  Import took 0.025267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.471101 seconds.
+  path: Assets/Animations/Land.anim
+  artifactKey: Guid(9f36f30b6f1336c408ebf63326b24cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Land.anim using Guid(9f36f30b6f1336c408ebf63326b24cf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd969782496603fc027b9d5d1d37274b8') in 0.032469 seconds
+  Import took 0.038667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.907006 seconds.
+  path: Assets/Animations/Run.anim
+  artifactKey: Guid(54135d230c4ce334ea1ca7f571d469f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Run.anim using Guid(54135d230c4ce334ea1ca7f571d469f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f2099a825137eb9885f63bb5e1a4e94') in 0.019434 seconds
+  Import took 0.029585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.356717 seconds.
+  path: Assets/Animations/takeOf.anim
+  artifactKey: Guid(8e7d672967ce67d46898d1a90dbe6ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/takeOf.anim using Guid(8e7d672967ce67d46898d1a90dbe6ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2c3ba107b2170ff49b3313862e46e0d') in 0.020760 seconds
+  Import took 0.031994 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002286 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.462 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 3.582900 ms (FindLiveObjects: 0.288800 ms CreateObjectMapping: 0.346100 ms MarkObjects: 2.752600 ms  DeleteObjects: 0.193600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.576 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2365.
+Total: 2.820300 ms (FindLiveObjects: 0.280000 ms CreateObjectMapping: 0.152800 ms MarkObjects: 2.198500 ms  DeleteObjects: 0.187500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003196 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.381 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2369.
+Total: 3.243800 ms (FindLiveObjects: 0.268400 ms CreateObjectMapping: 0.202400 ms MarkObjects: 2.632600 ms  DeleteObjects: 0.138900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2373.
+Total: 4.721400 ms (FindLiveObjects: 0.478600 ms CreateObjectMapping: 0.299300 ms MarkObjects: 3.724600 ms  DeleteObjects: 0.216200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004381 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.717 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2377.
+Total: 8.792900 ms (FindLiveObjects: 0.376900 ms CreateObjectMapping: 0.102400 ms MarkObjects: 8.171800 ms  DeleteObjects: 0.139800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007880 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.057 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 3.134800 ms (FindLiveObjects: 0.322000 ms CreateObjectMapping: 0.164000 ms MarkObjects: 2.500100 ms  DeleteObjects: 0.147000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002661 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2385.
+Total: 4.509700 ms (FindLiveObjects: 0.700500 ms CreateObjectMapping: 0.247600 ms MarkObjects: 3.417600 ms  DeleteObjects: 0.140500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.933 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 3.116900 ms (FindLiveObjects: 0.277800 ms CreateObjectMapping: 0.157400 ms MarkObjects: 2.535400 ms  DeleteObjects: 0.144600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001985 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.517 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1805 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 88.9 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2393.
+Total: 2.719000 ms (FindLiveObjects: 0.299000 ms CreateObjectMapping: 0.184600 ms MarkObjects: 2.078300 ms  DeleteObjects: 0.156100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3824.488822 seconds.
+  path: Assets/Animations/Knight.controller
+  artifactKey: Guid(e0410dedc3318dd4aa459caf1957c50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Knight.controller using Guid(e0410dedc3318dd4aa459caf1957c50c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3aeec41a45c56653d4a00d0d5f55559') in 0.039118 seconds
+  Import took 0.046599 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
